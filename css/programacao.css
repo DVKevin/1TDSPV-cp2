@@ -1,0 +1,22 @@
+table {
+    border-collapse: collapse;
+    width: 80px; 
+    margin: 20px auto;
+    }
+    th,td {
+        background-color: azure;
+        color: left;
+    }
+    th{
+        background-color: blue;
+        color: white;
+    }
+    tr:nth-child(even) {
+        background-color: whitesmoke;
+    }
+    tr:hover {
+        background-color: bisque;
+    }
+
+    
+    
